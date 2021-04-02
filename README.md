@@ -1,4 +1,4 @@
-# README
+# The Manga Guide to Statistics
 
 _The Manga Guide to Statistics_ is an interesting book on Statistics.
 
